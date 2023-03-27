@@ -1,4 +1,27 @@
 body {
-    background-color: black;
-    color: white;
+    background-color: #000000;
+    color: #F9F5EB;
+}
+
+#date-time {
+    padding: 3px;
+    text-align: left;
+    font-weight: bold;
+}
+
+#date-time th, td {
+    padding: 5px;
+}
+
+#header img {
+    width: 150px;
+}
+
+#main-content {
+    max-width: 500px;
+    margin: auto;
+}
+
+#main-content h1{
+    font-size: 1.25rem;
 }
